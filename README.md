@@ -1,0 +1,1 @@
+Quantização utilizando python.
